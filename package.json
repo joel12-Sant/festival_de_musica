@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/joel12-Sant/festival_de_musica/issues"
   },
-  "homepage": "https://github.com/joel12-Sant/festival_de_musica#readme"
+  "homepage": "https://github.com/joel12-Sant/festival_de_musica#readme",
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
 }
